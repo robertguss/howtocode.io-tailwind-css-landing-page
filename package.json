@@ -1,0 +1,18 @@
+{
+  "name": "simple-starter-kit",
+  "version": "1.0.0",
+  "description": "A simple starter kit for HTML, CSS & JS prototyping.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^9.7.4",
+    "parcel-bundler": "^1.12.4",
+    "posthtml-include": "^1.4.0"
+  }
+}
