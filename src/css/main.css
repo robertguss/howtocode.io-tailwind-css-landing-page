@@ -10,3 +10,9 @@
   height: 65vh;
   top: -50px;
 }
+
+.quote-form {
+  margin-top: -45px;
+  opacity: 0.99;
+  z-index: 10;
+}
