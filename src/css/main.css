@@ -30,6 +30,16 @@
   z-index: 10;
 }
 
+.quotes {
+  top: -50px;
+  left: -50px;
+  z-index: -1;
+}
+
+.testimonial {
+  z-index: 2;
+}
+
 .travel-tickets {
   right: 0;
   top: -200px;
