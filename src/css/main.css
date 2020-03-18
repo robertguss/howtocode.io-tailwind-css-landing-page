@@ -29,3 +29,10 @@
   opacity: 0.99;
   z-index: 10;
 }
+
+.travel-tickets {
+  right: 0;
+  top: -200px;
+  transform: rotate(-15deg);
+  z-index: -1;
+}
